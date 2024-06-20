@@ -1,0 +1,88 @@
+*{overflow: hidden;}
+body{
+    background-color: #F8F8F8;
+
+}
+
+.shoess{
+    background: #E5E5E569;
+   /* height: 130vh;
+   width: 105vh; */
+   background-image: url(c392ba101244345\ 1.png);
+   background-repeat:round;
+   /* background-position:right; */
+   background-size:contain; 
+   float: right;
+   min-height: 100vh;
+   min-width: 100vh;
+   
+   
+}
+.col1{
+    text-align: center;
+    justify-content: center;
+
+}
+.f1{
+    border-radius: 12px;
+    border-color: #00000040;
+    margin-left:4vh ;
+    background-color:#F8F8F8; 
+    width: 300.97px;
+height: 41px;
+}
+.f2{
+    border-radius: 12px;
+    border-color: #00000040;
+    margin-left:4vh ;
+    background-color:#F8F8F8; 
+    width: 300.97px;
+height: 41px; 
+}
+.f3{
+    color: #181818;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 3.8vh;
+    padding: 10px;
+}
+.f4{
+    color: #181818;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 5vh;
+    padding: 10px;
+    margin-top: 10px;
+
+}
+.f5{
+    width: 300.97px;
+height: 41px;
+border-radius: 12px;
+border: none;
+background-color: #EA454C;
+margin-top: 5px;
+margin-left: 4vh;
+color: #FFFFFF;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 18px;
+}
+
+.f6{
+    border-radius: 12px;
+    border-color: #00000040;
+    background-color:#F8F8F8;
+    color: #000000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 300px;
+height: 41px;
+margin-top: 15px;
+margin-left: 4vh;
+}
+.f7{
+    font-size: 13px;
+    margin-top: 10px;
+}
+.f8{
+    font-size: 13px;
+    margin-top: 10px;
+    color: #EA454C;
+}
